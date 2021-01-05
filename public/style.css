@@ -1,0 +1,26 @@
+.Header {
+    border: 1px solid black;
+    background-color: rgb(221, 189, 149);
+    text-align: center;
+}
+
+.Main {
+    border: 1px solid black;
+    height: 500px;
+    text-align: center;
+}
+
+.Footer {
+    border: 1px solid black;
+    height: 117px;
+    background-color: rgb(113, 144, 151);
+    text-align: center;
+}
+
+.crossText {
+    text-decoration: line-through;
+}
+
+.not_cross {
+    text-decoration: none;
+}
